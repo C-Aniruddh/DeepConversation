@@ -6,9 +6,7 @@ from __future__ import print_function
 
 import math
 import os
-import random
 import sys
-import time
 
 import numpy as np
 from six.moves import xrange  # pylint: disable=redefined-builtin
